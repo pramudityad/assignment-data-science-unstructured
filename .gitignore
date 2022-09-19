@@ -129,4 +129,5 @@ ui-tests/playwright-report
 
 # dataset
 input/
+output/
 logs_df.parquet
