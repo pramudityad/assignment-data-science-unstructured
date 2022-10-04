@@ -1,3 +1,3 @@
 # assignment-data-science-unstructured
 Todo
-- [] Read each README in folder
+- [ ] Read each README in folder
